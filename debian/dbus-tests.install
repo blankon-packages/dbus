@@ -1,0 +1,4 @@
+debian/tmp/usr/bin/dbus-test-tool
+debian/tmp/usr/share/man/man1/dbus-test-tool.1
+debian/tmp/usr/share/installed-tests/dbus
+debian/tmp/usr/lib/dbus-1.0/installed-tests

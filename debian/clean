@@ -1,0 +1,3 @@
+doc/dbus.devhelp
+debian/dbus.install
+debian/*.symbols

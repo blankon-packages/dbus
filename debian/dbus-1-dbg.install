@@ -1,0 +1,3 @@
+debian/tmp/usr/lib/*/dbus-1.0/debug-build/bin
+debian/tmp/usr/lib/*/dbus-1.0/debug-build/lib
+debian/tmp/usr/share/installed-tests/dbus-debug-build
